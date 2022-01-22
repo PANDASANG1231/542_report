@@ -16,6 +16,9 @@ library(knitr)
 library(RefManageR)
 ```
 
+## 0. Online-Book Link
+Link:[https://pandasang1231.github.io/542_report/notebooks.html](https://pandasang1231.github.io/542_report/notebooks.html)
+
 ## 1. Audience persona
 
 <font size=3>Rui Yan and I work together in risk management at a financial institution. I am the data scientist on the data science team and Yan is the risk management strategy leader on the analytics team. Rui Yan graduated from the University of British Columbia with a major in mathematics and has ten years of work experience in data analysis. He has a basic understanding of data mining. Rui Yan looks forward to implementing risk control on the company's loan business based on the prediction results of the risk model and in line with the risk management rules of the data analysis team. As a result, he has high requirements for the performance and interpretability of the model.</font>
@@ -42,7 +45,7 @@ library(RefManageR)
 
 ### 4.1 Software
 - The whole process is conducting with Python.
-- Repository link: [https://github.com/UBC-MDS/public/tree/master/rubric](https://github.com/UBC-MDS/public/tree/master/rubric)
+- Repository link: [https://github.ubc.ca/mds-2021-22/DSCI_573_lab4_luming21](https://github.ubc.ca/mds-2021-22/DSCI_573_lab4_luming21)
 
 
 ### 4.2 Data collection
